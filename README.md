@@ -27,3 +27,5 @@
 
 ## 🏁 Outcome
 - Mastery in interpreting SHA256 hashes through critical thinking and analysis.
+
+ANS: The 3 digit code is 489
